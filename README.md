@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Find me on LinkedIn"/>
+  <a href="https://www.linkedin.com/in/eric-carter-76b7b237"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Find me on LinkedIn"/></a>
 </div>
 
 
