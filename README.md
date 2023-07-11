@@ -11,4 +11,4 @@
 
 - 🔭 I’m currently working on emerex.net
 - 🌱 I’m currently learning cybersecurity
-- Watch me practice with [asciinema](https://asciinema.org/a/901ixzbp2n3DAR6yr9cluH6Qp) (this is an overview while I organize and upload the projects)
+- Watch me practice cybersecurity with asciinema (this is an overview while I organize and upload the projects) [![asciicast](https://asciinema.org/a/901ixzbp2n3DAR6yr9cluH6Qp.svg)](https://asciinema.org/a/901ixzbp2n3DAR6yr9cluH6Qp)
