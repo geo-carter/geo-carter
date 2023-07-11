@@ -1,16 +1,14 @@
-### Hi there 👋
+<div id="header" align="center">
+    <a title="Ryota Minami, CC0, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Galaxy(Conway%27s_Game_of_Life).gif"><img width="128" alt="Galaxy(Conway&#039;s Game of Life)" src="https://upload.wikimedia.org/wikipedia/commons/8/85/Galaxy%28Conway%27s_Game_of_Life%29.gif"></a>
+</div>
 
-<!--
-**geo-carter/geo-carter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges" align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Find me on LinkedIn"/>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi, I'm Eric. Here are my projects:
+
+- 🔭 I’m currently working on emerex.net
+- 🌱 I’m currently learning cybersecurity
+- Watch me practice with [asciinema](https://asciinema.org/a/hDM2yIYO64dOoLhY0XblV4chk) (this is a placeholder while I organize and upload the rest)
